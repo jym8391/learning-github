@@ -3,7 +3,7 @@
 ---
 pwd: shows the current path in a hierarchical directory  
 cd: change directory  
-argunemnts, options,  
+argunemnts, options, ...
 
 ---
 ### More on ls
