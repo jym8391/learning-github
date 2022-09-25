@@ -7,7 +7,7 @@ argunemnts, options,
 
 ---
 ### More on ls
-- ***ls***: list files and directories  
+- **ls**: list files and directories  
 - ls /bin
 - ls -l
 - ls-l/etc /bin
@@ -29,7 +29,7 @@ argunemnts, options,
 - rm -i file1 file2
 - rm -r dir1 dir2  
 ### Wildcards(Pattern)
-- *
+- *.
 - g*
 - Data???
 ``` sh
