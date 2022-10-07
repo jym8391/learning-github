@@ -1,5 +1,5 @@
 # Note 
-### Use Git commands
+### How to use Git commands
 
 ### Git config : First-time setup  
 - git config --global user.name my name  
