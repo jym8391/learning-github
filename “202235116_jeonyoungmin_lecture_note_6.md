@@ -1,11 +1,6 @@
 # Note 
 ### Use Git commands
----
-pwd: shows the current path in a hierarchical directory  
-cd: change directory  
-argunemnts, options, ...
 
----
 ### Git config : First-time setup  
 - git config --global user.name my name  
 - git config --global user.email email-adress  
